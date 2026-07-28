@@ -1,0 +1,1 @@
+Los PDFs ahora se guardan en la nube (Supabase). Ver GUIA-SUPABASE.md
